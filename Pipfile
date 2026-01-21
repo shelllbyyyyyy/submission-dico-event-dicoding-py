@@ -9,6 +9,7 @@ djangorestframework = "*"
 psycopg = "*"
 python-dotenv = "*"
 djangorestframework-simplejwt = "*"
+djangorestframework-stubs = "*"
 
 [dev-packages]
 
